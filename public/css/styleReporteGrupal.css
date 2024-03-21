@@ -1,0 +1,25 @@
+.parteEncabezado{
+    display: inline-block;
+    text-align: center;
+}
+
+#tituloEncabezado{
+    font-size: 20px;
+    text-align: center;
+}
+#subtitulo{
+    font-size:16px;
+    font-weight: normal;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.tituloCuerpo{
+    text-align:center;
+}
+.footer{
+    margin: 25px;
+    padding-top: 20px;
+}
